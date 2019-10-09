@@ -96,7 +96,7 @@ clear or less clear.
 - [Google](https://www.google.com/)
 - [ESPN.com](http://espn.go.com/)
 - [TripAdvisor](http://www.tripadvisor.com/)
-- [City of Boston](http://www.cityofboston.gov/)
+- [Souq](http://www.souq.com/)
 - [JCrew](https://www.jcrew.com/)
 
 ## What is a User Story?
