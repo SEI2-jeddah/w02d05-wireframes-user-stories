@@ -5,7 +5,7 @@
 ## Foreach
 ```javascript
 let arr = ["Ebere", "Ahmad", "Yassir", "Atheer"]
-arr.foreach(function(element){
+arr.forEach(function(element){
   console.log(`The instructional team consists of ${element}`)
 })
 
