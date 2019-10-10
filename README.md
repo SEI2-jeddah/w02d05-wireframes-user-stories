@@ -66,7 +66,7 @@ let sum = arr.reduce(function(accumulator, element){
 
 // console.log(arr) [1,2,4,5]
 // console.log(sum) 12
-```s
+```
 
 
 Why map, filter, reduce?
